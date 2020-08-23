@@ -1,0 +1,1 @@
+for i in range(len(list)) vs for i, _ in enumerate(list)
